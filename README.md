@@ -52,7 +52,7 @@ output = query({
 	"inputs": "Can you please let us know more details about your ",
 })
 
-Quick Links
+## Quick Links
 
 Get started with Inference API (serverless)
 
