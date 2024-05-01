@@ -35,7 +35,9 @@ license: creativeml-openrail-m
 
 You can use your own model like mistral & phi3 (or) refer the my hugging face repo for the model 
 
-🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤
+
+🥤Use this model with the Inference API (serverless)
+
 
 import requests
 
@@ -50,4 +52,16 @@ output = query({
 	"inputs": "Can you please let us know more details about your ",
 })
 
-🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤
+Quick Links
+
+Get started with Inference API (serverless)
+
+Inference API (serverless) Documentation
+
+.
+
+.
+
+.
+
+
