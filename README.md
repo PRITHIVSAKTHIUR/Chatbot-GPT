@@ -35,7 +35,8 @@ license: creativeml-openrail-m
 
 You can use your own model like mistral & phi3 (or) refer the my hugging face repo for the model 
 
-''' 
+🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤
+
 import requests
 
 API_URL = "https://api-inference.huggingface.co/models/prithivMLmods/Dorado-8x7B-Instruct-v0.1"
@@ -48,4 +49,5 @@ def query(payload):
 output = query({
 	"inputs": "Can you please let us know more details about your ",
 })
-'''
+
+🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤🥤
