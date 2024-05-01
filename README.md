@@ -36,7 +36,7 @@ license: creativeml-openrail-m
 You can use your own model like mistral & phi3 (or) refer the my hugging face repo for the model 
 
 
-🥤Use this model with the Inference API (serverless)
+## 🥤Use this model with the Inference API (serverless)
 
 
 import requests
