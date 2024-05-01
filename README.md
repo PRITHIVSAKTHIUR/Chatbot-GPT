@@ -54,9 +54,9 @@ output = query({
 
 ## Quick Links
 
-Get started with Inference API (serverless)
+Get started with Inference API (serverless) : https://huggingface.co/docs/api-inference/quicktour
 
-Inference API (serverless) Documentation
+Inference API (serverless) Documentation : https://huggingface.co/docs/api-inference/index
 
 .
 
