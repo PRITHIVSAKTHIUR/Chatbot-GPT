@@ -10,6 +10,8 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
+![alt text](assets/13.png)
+
 🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
 
 🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/StrangerX-AI-Bot
